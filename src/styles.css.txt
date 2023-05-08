@@ -1,0 +1,7 @@
+body{
+	background: #ff70b8;
+}
+
+#thehead{
+
+}
